@@ -2,6 +2,6 @@
   "publishedAt": "14th Aug 2020",
   "featuredImage": "/images/uploads/pythonproj.png",
   "title": "Project 1: The Bitcoin Graph",
-  "content": "Using Python and the numpy and mathplot libraries. This graph is a realtime plot of Bitcoin using the Coinbase Api. This is the url: https://youtu.be/HeKBwpaNHb8"
+  "content": "Using Python and the numpy and mathplot libraries. This graph is a realtime plot of Bitcoin using the Coinbase Api. Ultimately, this is become an algo trading bot. This is the url: https://youtu.be/HeKBwpaNHb8"
 
 }
