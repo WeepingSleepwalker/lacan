@@ -44,7 +44,7 @@ export default class Header extends Vue {
 .nav {
   ul li > a {
     &.nuxt-link-active {
-      color: $bluise;
+      color: #AE25B2;
       @apply font-bold;
     }
   }
