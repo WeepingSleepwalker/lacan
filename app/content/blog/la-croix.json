@@ -1,6 +1,6 @@
 {
   "title": "Dog2Dog Project",
   "publishedAt": "21th Nov 2021",
-  "content": "Second Project. Made with React and Google maps API. Connects dogwalkers by placing a pin and allowing messages to other app users. I'm currently adding a geo tracker, database and messaging. Here is the link: https://youtu.be/38COmDP021k",
+  "content": "Second Project. Made with React and Google maps API. Connects dogwalkers by placing a pin and allowing messages to other app users. I'm currently adding a geo tracker, database and messaging. Here is the link to a video explaining: https://youtu.be/38COmDP021k",
   "featuredImage": "/images/uploads/dog2dogproj.png"
 }
